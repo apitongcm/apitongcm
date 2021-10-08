@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @apitongcm
-- 👀 I’m interested in programming and design 
-- 🌱 I’m currently learning full stack web development
+- <h1>👋 Hi, I’m Carl<h1>
+- 👀 I’m interested in programming, AutoCAD and design 
+- 🌱 I’m currently learning android development
 - 💞️ I’m looking to collaborate on a web project 
 - 📫 Reach me @ apitongcm@gmail.com
 
