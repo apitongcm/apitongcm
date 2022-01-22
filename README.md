@@ -1,7 +1,8 @@
-- <h1>👋 Hi, I’m Carl<h1>
-- 👀 I’m interested in programming, AutoCAD and design 
-- 🌱 I’m currently learning android development
-- 💞️ I’m looking to collaborate on a web project 
+- <h1>👋 Hello, I am Carl Marwin J. Apitong <h1>
+  <h2> Associate Design Engineer <h2> 
+- <h3>👀 I’m interest with Programming,Web Development, Electronics and Game Development<h3> 
+- <h4>🌱 I’m currently learning Game Development <h4> 
+- 💞️ I’m looking to collaborate on a some awesome projects
 - 📫 Reach me @ apitongcm@gmail.com
 
 <!---
