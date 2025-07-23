@@ -1,11 +1,13 @@
-<img src="https://media.licdn.com/dms/image/D5616AQGXVb9t7-NbvA/profile-displaybackgroundimage-shrink_350_1400/0/1695472007825?e=1713398400&v=beta&t=IpMXuj7hLqJywu-spyn0KVrdbLooOjsIpD_XH0u_Dv0" alt="my banner"> 
-<h1>Carl Marwin J. Apitong <h1>
-<br>
-<h2>Software Development Engineer in Test</h2>
-<h2>[Junior Design Engineer -Software] <h2> 
-<br>
+<img src="https://media.licdn.com/dms/image/v2/D5616AQGXVb9t7-NbvA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1695472007825?e=1756339200&v=beta&t=q_HbR9lJ-aOu2pYLZMUDob542sSl530v9Vu4bcegSKk" alt="Marwin's Banner"> 
+<section>
+  Hello There, I am Carl Marwin J. Apitong, currently working as a Firmware Engineer specialized in Automotive Software. <br>
+  |Firmware Engineer|Automotive Embedded Testing| Pursuing MS in Computer Science| Cybersecurity-Focussed|
+</section>
+  <br>
   <p>
-    I'm a dedicated Software Test Engineer with a strong background in AutoSAR architecture, Test Planning, and Test Implementation. I bring valuable experience and skills to ensure robust software quality.
+   Experienced and detail-oriented Firmware Engineer with nearly 4 years of specialization in automotive embedded systems testing. Skilled in validating and debugging low-level firmware across ECUs, sensors, and microcontroller-based systems, ensuring compliance with industry standards such as ISO 26262, AUTOSAR, and OSEK. 
+
+  I’ve worked as a tester for several years, which gave me a solid grasp of how systems work under the hood. That experience sparked my interest in building the software      myself, so I’ve been learning development and working on personal projects to make the shift into a developer role.
   </p>
   <br>
 - 👀 I’m interested with Technology, Programming, Web Development, Embedded System, Automotive Software and Game Development
