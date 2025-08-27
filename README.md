@@ -1,6 +1,6 @@
 <img src="https://media.licdn.com/dms/image/v2/D5616AQGXVb9t7-NbvA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1695472007825?e=1756339200&v=beta&t=q_HbR9lJ-aOu2pYLZMUDob542sSl530v9Vu4bcegSKk" alt="Marwin's Banner"> 
 <section>
- # 👋 Hey, I'm Carl Pogi  
+ # 👋 Hey, I'm Carl Marwin J. Apitong
 
 🚗 **Automotive Software QA Engineer | 🧪 Automation Enthusiast | 🛡️ Cybersecurity Explorer**  
 
@@ -9,7 +9,7 @@
 ## 🧰 Tech & Tools  
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  
+![Java](https://img.shields.io/badge/-REACT-007396?style=flat-square&logo=java&logoColor=white)  
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)  
@@ -23,26 +23,17 @@
 ## 🎯 About Me  
 
 - 🔍 Experienced in **manual & automation testing** for **automotive software**  
-- 📚 Pursuing **Master’s in Computer Science** (Software Testing & Quality specialization)  
+- 📚 Pursuing **Master’s in Computer Science** (Software Testing & Cybersecurity specialization)  
 - 🛡️ Transitioning into **QA-Sec** and **Application Security**  
 - 🚀 Preparing for **ISC2 Certified in Cybersecurity (CC)** & **SSCP**  
 - 🧪 Researching **IoT security vulnerabilities** (Arduino, NodeMCU, Raspberry Pi)  
-- 🏃 Training for my **first marathon** — because discipline scales across life & code  
 
 ---
 
 ## 📊 GitHub Stats  
 
-![Carl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)  
-
----
-
-## 🚀 Featured Work  
-
-- 🔬 [IoT Security Research](https://github.com/yourusername/your-iot-repo) – Comparative study on NodeMCU, Arduino, and Raspberry Pi vulnerabilities  
-- ⚡ [Automation Frameworks](https://github.com/yourusername/automation-repo) – Selenium/Cypress projects for automotive QA testing  
-- 🛡️ [Cybersecurity Practice](https://github.com/yourusername/cybersecurity-playground) – Hands-on labs for SOC, AppSec, and bug bounty  
+![Carl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=apitongcm&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apitongcm&layout=compact&theme=tokyonight)  
 
 ---
 
@@ -54,5 +45,5 @@
 
 ---
 
-💡 *"Testing proves the system works. Security proves it can’t be broken — easily."*  
+💡 *"Testing proves the system works. Security proves it can’t be broken easily."*  
 </section>
