@@ -1,21 +1,58 @@
 <img src="https://media.licdn.com/dms/image/v2/D5616AQGXVb9t7-NbvA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1695472007825?e=1756339200&v=beta&t=q_HbR9lJ-aOu2pYLZMUDob542sSl530v9Vu4bcegSKk" alt="Marwin's Banner"> 
 <section>
-  Hello There, I am Carl Marwin J. Apitong, currently working as a Firmware Engineer specialized in Automotive Software. <br>
-  |Firmware Engineer|Automotive Embedded Testing| Pursuing MS in Computer Science| Cybersecurity-Focussed|
+ # 👋 Hey, I'm Carl Pogi  
+
+🚗 **Automotive Software QA Engineer | 🧪 Automation Enthusiast | 🛡️ Cybersecurity Explorer**  
+
+---
+
+## 🧰 Tech & Tools  
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)  
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)  
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
+
+---
+
+## 🎯 About Me  
+
+- 🔍 Experienced in **manual & automation testing** for **automotive software**  
+- 📚 Pursuing **Master’s in Computer Science** (Software Testing & Quality specialization)  
+- 🛡️ Transitioning into **QA-Sec** and **Application Security**  
+- 🚀 Preparing for **ISC2 Certified in Cybersecurity (CC)** & **SSCP**  
+- 🧪 Researching **IoT security vulnerabilities** (Arduino, NodeMCU, Raspberry Pi)  
+- 🏃 Training for my **first marathon** — because discipline scales across life & code  
+
+---
+
+## 📊 GitHub Stats  
+
+![Carl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)  
+
+---
+
+## 🚀 Featured Work  
+
+- 🔬 [IoT Security Research](https://github.com/yourusername/your-iot-repo) – Comparative study on NodeMCU, Arduino, and Raspberry Pi vulnerabilities  
+- ⚡ [Automation Frameworks](https://github.com/yourusername/automation-repo) – Selenium/Cypress projects for automotive QA testing  
+- 🛡️ [Cybersecurity Practice](https://github.com/yourusername/cybersecurity-playground) – Hands-on labs for SOC, AppSec, and bug bounty  
+
+---
+
+## 📫 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
+
+---
+
+💡 *"Testing proves the system works. Security proves it can’t be broken — easily."*  
 </section>
-  <br>
-  <p>
-   Experienced and detail-oriented Firmware Engineer with nearly 4 years of specialization in automotive embedded systems testing. Skilled in validating and debugging low-level firmware across ECUs, sensors, and microcontroller-based systems, ensuring compliance with industry standards such as ISO 26262, AUTOSAR, and OSEK. 
-
-  I’ve worked as a tester for several years, which gave me a solid grasp of how systems work under the hood. That experience sparked my interest in building the software      myself, so I’ve been learning development and working on personal projects to make the shift into a developer role.
-  </p>
-  <br>
-- 👀 I’m interested with Technology, Programming, Web Development, Embedded System, Automotive Software and Game Development
-- 🌱 I’m currently learning Java, Selenium and Cypress  
-- 💞️ I’m looking to collaborate on a projects involving Software Research, Testing and Development
-- 📫 Reach me @ apitong.carlmarwin@proton.me
-
-<!---
-apitongcm/apitongcm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
