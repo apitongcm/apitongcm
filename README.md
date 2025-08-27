@@ -25,7 +25,7 @@
 - 🔍 Experienced in **manual & automation testing** for **automotive software**  
 - 📚 Pursuing **Master’s in Computer Science** (Software Testing & Cybersecurity specialization)  
 - 🛡️ Transitioning into **QA-Sec** and **Application Security**  
-- 🚀 Preparing for **ISC2 Certified in Cybersecurity (CC)** & **SSCP**  
+- 🚀 Preparing for **ISC2 Certified in Cybersecurity (CC)** 
 - 🧪 Researching **IoT security vulnerabilities** (Arduino, NodeMCU, Raspberry Pi)  
 
 ---
@@ -39,9 +39,9 @@
 
 ## 📫 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/apitongcm/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/apitongcm)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:apitong.carlmarwin@proton.me)  
 
 ---
 
