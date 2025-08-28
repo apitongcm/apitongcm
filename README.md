@@ -2,7 +2,7 @@
 <section>
  # 👋 Hey, I'm Carl Marwin J. Apitong
 
-🚗 **Automotive Software QA Engineer | 🧪 Automation Enthusiast | 🛡️ Cybersecurity Explorer**  
+🚗 **Automotive Software QA Engineer |  Automation Enthusiast |  Cybersecurity Explorer | Software Engineer | Designer **  
 
 ---
 
