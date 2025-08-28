@@ -22,11 +22,11 @@
 
 ## 🎯 About Me  
 
-- 🔍 Experienced in **manual & automation testing** for **automotive software**  
-- 📚 Pursuing **Master’s in Computer Science** (Software Testing & Cybersecurity specialization)  
-- 🛡️ Transitioning into **QA-Sec** and **Application Security**  
-- 🚀 Preparing for **ISC2 Certified in Cybersecurity (CC)** 
-- 🧪 Researching **IoT security vulnerabilities** (Arduino, NodeMCU, Raspberry Pi)  
+-  Experienced in **manual & automation testing** for **automotive software**  
+-  Pursuing **Master’s in Computer Science** (Software Testing & Cybersecurity specialization)  
+-  Transitioning into **QA-Sec** and **Application Security**  
+-  Preparing for **ISC2 Certified in Cybersecurity (CC)** 
+-  Researching **IoT security vulnerabilities** (Arduino, NodeMCU, Raspberry Pi)  
 
 ---
 
@@ -45,5 +45,5 @@
 
 ---
 
-💡 *"Testing proves the system works. Security proves it can’t be broken easily."*  
+ *"Testing proves the system works. Security proves it can’t be broken easily."*  
 </section>
