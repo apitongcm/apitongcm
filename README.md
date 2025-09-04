@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D5616AQGXVb9t7-NbvA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1695472007825?e=1756339200&v=beta&t=q_HbR9lJ-aOu2pYLZMUDob542sSl530v9Vu4bcegSKk" alt="Marwin's Banner"> 
+
 <section>
  # 👋 Hey, I'm Carl Marwin J. Apitong
 
