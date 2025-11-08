@@ -2,6 +2,9 @@
 <section>
  # 👋 Hey, I'm Carl Marwin J. Apitong
 
+ A QA Engineer specializing in Automotive Software Validation and Verification with a passion for building software and embedded systems that are accurate, secure, and scalable.
+ I bridge the gap between firmware validation, cybersecurity and application development, ensuring every release is robust from chip to cloud.
+
 🚗 **Automotive Software QA Engineer |  Automation Enthusiast |  Cybersecurity Explorer | Software Engineer | Designer **  
 
 ---
